@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Abdullahi 👋
 
-<!--
-**xenzi-01/xenzi-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student at the University of Ilorin, Nigeria, learning by building.
 
-Here are some ideas to get you started:
+## Skills
+Python · SQL · HTML/CSS · Excel · Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [expense-tracker-python](https://github.com/xenzi-01/expense-tracker-python): command-line expense tracker with categories, summaries and validation
+- [library-database-sql](https://github.com/xenzi-01/library-database-sql): library database with joins, views, indexes and window functions
+
+## Currently
+Contributing to open source and looking for good first issues.
