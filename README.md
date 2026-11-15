@@ -8,6 +8,7 @@ Python · SQL · HTML/CSS · Excel · Power BI
 ## Projects
 - [expense-tracker-python](https://github.com/xenzi-01/expense-tracker-python): command-line expense tracker with categories, summaries and validation
 - [library-database-sql](https://github.com/xenzi-01/library-database-sql): library database with joins, views, indexes and window functions
+- [stellar-xdr-decoder](https://github.com/xenzi-01/stellar-xdr-decoder): a TypeScript CLI that decodes Stellar transaction XDR
 
 ## Currently
 Contributing to open source and looking for good first issues.
