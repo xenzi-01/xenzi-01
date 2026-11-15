@@ -3,7 +3,7 @@
 Computer science student at the University of Ilorin, Nigeria, learning by building.
 
 ## Skills
-Python · SQL · HTML/CSS · Excel · Power BI
+Python · SQL · HTML/CSS · Excel · Power BI . TypeScript
 
 ## Projects
 - [expense-tracker-python](https://github.com/xenzi-01/expense-tracker-python): command-line expense tracker with categories, summaries and validation
