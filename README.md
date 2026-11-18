@@ -6,7 +6,7 @@ Computer science student at the University of Ilorin, Nigeria, learning by build
 - Python
 - SQL
 - TypeScript and the Stellar SDK
-- HTML and CSS
+- HTML, JavaScript and CSS
 - Excel and Power BI
 
 ## Projects
@@ -16,6 +16,8 @@ Computer science student at the University of Ilorin, Nigeria, learning by build
 - [stellar-account-checker](https://github.com/xenzi-01/https://github.com/xenzi-01/library-database-sql): a TypeScript CLI that checks Stellar testnet account balances
 - [stellar-payment-script](https://github.com/xenzi-01/stellar-payment-script-): a TypeScript script that sends a Stellar testnet payment
 - [sql-analytics-queries](https://github.com/xenzi-01/sql-analytics-queries): a sales database with 12 queries using JOINs, CTEs and window functions
+- [stellar-balance-viewer](https://xenzi-01.github.io/stellar-balance-viewer/): a web app that shows Stellar account balances
+
 
 
 
